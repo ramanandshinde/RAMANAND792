@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.html,body{
+    width: 100%;
+    height: 100%;
+    background-image: url(/downlod.12.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.wapper{
+    width: 90%;
+    height: 92%;
+    opacity: 9;
+    background-image: url(/downlod.12.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    
+}
+.navigation{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.ram{
+    width: 50%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+align-items: center;
+}
+.ram a{
+    text-decoration: none;
+    color: #000;
+}
+.ram a{
+    font-size: 2vw;
+    font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+.content{
+    width: 100%;
+    height: 60%;
+ display: flex;
+}
+.left-div{
+    width: 50%;
+    height: 50%;
+    font-size:50 ;
+display: flex;
+flex-direction: ;
+align-items: flex-start;
+justify-content: center;
+padding-left:10vw ;
+padding-top:5vw;
+}
+.left-div h2{
+    font-weight: 300;
+    font-size: 90;
+}
+
+.right-div{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.img-contenar{
+    height: 30vw;
+    width: 30vw;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.left-div h1{
+    color: blue;
+}
